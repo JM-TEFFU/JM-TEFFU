@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate DevOps engineer from South Africa </h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <br/>
 
 <div align="center">
