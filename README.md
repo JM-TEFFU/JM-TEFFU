@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
-💬 Ask me about **Cloud native projects... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **DevOps & Cloud DevOps.. or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Studying and playing games**
 
