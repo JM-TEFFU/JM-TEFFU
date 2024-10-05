@@ -1,57 +1,57 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JM-TEFFU.JM-TEFFU" />
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Jaqueen+Mokhoma+Teffu!;" /> </h1> <h3 align="center">DevOps Engineer | Cloud Enthusiast | Continuous Learner</h3> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> <div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jaqueen+Mokhoma+Teffu!;" />
-</h1>
-
-<h3 align="center">A passionate DevOps engineer from South Africa </h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<br/>
-
-<div align="center">
-
- 🔭 I’m currently working on **enhancing my tech skills**
-
- 🌱 I’m currently learning **Docker, Kubernetes, AWS**
-
-💬 Ask me about **DevOps & Cloud DevOps.. or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Studying and playing games**
-
- </div>
-
-<div align="center">
-  <a href="mailto:teffudevops@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaqueen-mokhoma-teffu-465149329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https:" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
+🔭 Currently focused on **expanding my expertise in DevOps and Cloud Technologies**.
 
 
+🌱 Continuously learning **Docker, Kubernetes, AWS** to stay ahead in the fast-evolving tech landscape.
 
-# 💻 Tech Stack:
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+💬 Feel free to ask me about **DevOps, Cloud Engineering, or anything related to Software Development** here.
+
+⚡ Fun fact: I balance studying with **gaming**, which helps me stay sharp and focused.
+
+</div> <div align="center"> <a href="mailto:teffudevops@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/jaqueen-mokhoma-teffu-465149329" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" /> </a> </div> <hr/>
+
+# 💻 Technical Skills:
+
+![java-#ED8B00](https://github.com/user-attachments/assets/a522dccd-0e65-4abc-a75c-96b0dc8bda94)
+
+![Apache Maven-C71A36](https://github.com/user-attachments/assets/9716a761-a677-413b-87a3-a13af8c9a15f)
+
+![jenkins-#2C5263](https://github.com/user-attachments/assets/b9103b63-c9ab-4ae5-9b2b-639edfbf718e)
+
+![github-#121011](https://github.com/user-attachments/assets/25ed6be3-9182-4a83-a75f-b2f483f72af6)
+
+![git-#F05033](https://github.com/user-attachments/assets/b4c857ce-b0bf-4569-a209-52583ecc3180)
+
+![kubernetes-#326ce5](https://github.com/user-attachments/assets/14fc848c-3dc8-4658-bc2a-e093e49e5edc)
+
+![apache tomcat-#F8DC75](https://github.com/user-attachments/assets/2c517261-b6cb-4ec6-9ee7-f55bbb3b8258)
+
+![AWS-#FF9900](https://github.com/user-attachments/assets/37eac86c-fd33-49fe-a008-a65e4b6676d9)
+
+![yaml-#ffffff](https://github.com/user-attachments/assets/f07538ab-121a-4328-915c-cf1dc712ae13)
+
+![shell_script-#121011](https://github.com/user-attachments/assets/1a3007e7-6ad2-447b-9f30-758aa9a09724)
+
+![firebase-#039BE5](https://github.com/user-attachments/assets/6b5f14e6-387e-4d97-b991-741694ff3d9c)
+
+![nginx-#009639](https://github.com/user-attachments/assets/7c3aac0b-fdb6-40ab-a226-e0ae70b6ca27)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JM-TEFFU&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JM-TEFFU&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-TEFFU&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JM-TEFFU&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+![api](https://github.com/user-attachments/assets/2873554a-8a7e-46d2-90b3-6565cc9b0e07)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![github-readme-streak-stats herokuapp](https://github.com/user-attachments/assets/61088b12-c8b9-47fc-b839-62b700d7a944)
 
----
-[![](https://visitcount.itsvg.in/api?id=JM-TEFFU&icon=4&color=4)](https://visitcount.itsvg.in)
+![github-readme-stats vercel](https://github.com/user-attachments/assets/a16a8327-0469-454b-afa4-b4755ca908bb)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 Achievements:
+
+![github-profile-trophy vercel](https://github.com/user-attachments/assets/396bfa70-f950-4cd9-8808-25e1e08e5204)
+
+# ✍️ Inspirational Tech Quote:
+
+![api](https://github.com/user-attachments/assets/a4bd05f7-0576-4116-b8b6-8000adc2d9be)
+
+
+![api](https://github.com/user-attachments/assets/10c34f00-ccc3-4446-a20d-e02ab7fb433f)
